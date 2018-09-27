@@ -17,9 +17,9 @@ favicon: favicon.png
 
 repository: moviecode/moviecode.github.io
 github_url: https://github.com/moviecode
-cnblog_url: http://www.cnblogs.com/moviecode
-url: http://www.moviecode.com
-enforce_ssl: moviecode.com
+#cnblog_url: http://www.cnblogs.com/moviecode
+#url: http://www.moviecode.com
+#enforce_ssl: moviecode.com
 
 
 ## Gem
